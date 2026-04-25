@@ -1,0 +1,3 @@
+# Gandarela não tem dependências externas
+# Usa apenas bibliotecas padrão do Python 3
+# math, json, re, os, collections, urllib, http.server
